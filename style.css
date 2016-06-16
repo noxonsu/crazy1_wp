@@ -1,0 +1,229 @@
+/*  
+
+Theme Name: The_Crazy
+
+Theme URI: test
+
+Author: test
+
+Author URI: test
+
+Description: Creative Agency HTML5 Templat
+
+Version: test
+
+License: text
+
+License URI: test 
+
+Text Domain: text
+
+*/ 
+
+.waitmoderation {
+
+    font-size:12px;
+
+	margin:0 !important;
+
+}
+
+ul.children {
+
+	margin:0 !important;
+
+	padding:0 !important;
+
+}
+
+.comment-list .depth-2, 
+
+.comment-list .depth-3, 
+
+.comment-list .depth-4, 
+
+.comment-list .depth-5, 
+
+.comment-list .depth-6, 
+
+.comment-list .depth-7, 
+
+.comment-list .depth-8, 
+
+.comment-list .depth-9, 
+
+.comment-list .depth-10 {
+
+  margin-left: 150px !important;
+
+}
+
+
+
+#cancel-comment-reply-link {
+
+	display:block;
+
+	font-size:13px;
+
+	margin-top:-20px;
+
+	margin-bottom:0;
+
+}
+
+
+
+@media (max-width: 768px) {
+
+  .comment-list .depth-2, 
+
+  .comment-list .depth-3, 
+
+  .comment-list .depth-4, 
+
+  .comment-list .depth-5, 
+
+  .comment-list .depth-6, 
+
+  .comment-list .depth-7, 
+
+  .comment-list .depth-8, 
+
+  .comment-list .depth-9, 
+
+  .comment-list .depth-10 {
+
+    margin-left: 60px !important;
+
+  }
+
+}
+
+
+
+@media (max-width: 480px) {
+
+  .comment-list .depth-2, 
+
+  .comment-list .depth-3, 
+
+  .comment-list .depth-4, 
+
+  .comment-list .depth-5, 
+
+  .comment-list .depth-6, 
+
+  .comment-list .depth-7, 
+
+  .comment-list .depth-8, 
+
+  .comment-list .depth-9, 
+
+  .comment-list .depth-10 {
+
+   margin-left: 0 !important;
+
+  }
+
+}
+
+
+
+.aligncenter,
+
+div.aligncenter {
+
+   display: block;
+
+   margin-left: auto;
+
+   margin-right: auto;
+
+}
+
+ 
+
+.alignleft {
+
+   float: left;
+
+   margin-right: 30px;
+
+   margin-bottom: 30px;
+
+}
+
+ 
+
+.alignright {
+
+   float: right;
+
+   margin-left: 30px;
+
+   margin-bottom: 30px;
+
+
+
+}
+
+ 
+
+.wp-caption {
+
+   border: 1px solid #ddd;
+
+   text-align: center;
+
+   background-color: #f3f3f3;
+
+   padding-top: 4px;
+
+   margin: 10px;
+
+   -moz-border-radius: 3px;
+
+   -khtml-border-radius: 3px;
+
+   -webkit-border-radius: 3px;
+
+   border-radius: 3px;
+
+}
+
+ 
+
+.wp-caption img {
+
+   margin: 0;
+
+   padding: 0;
+
+   border: 0 none;
+
+}
+
+ 
+
+.wp-caption p.wp-caption-text {
+
+   font-size: 11px;
+
+   line-height: 17px;
+
+   padding: 0 4px 5px;
+
+   margin: 0;
+
+}
+
+
+
+.sticky {}
+
+.screen-reader-text {}
+
+.gallery-caption {}
+
+.bypostauthor {}
